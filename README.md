@@ -1,4 +1,4 @@
-<table style="border-collapse: collapse; width: 100%; border: none;">
+<table style="border-collapse: collapse; width: 130%; border: none;">
   <tr>
     <td style="border: none; vertical-align: top;">
       <center><img src="/images/IMG_6015.png" width="150"></center>
