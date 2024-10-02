@@ -1,7 +1,9 @@
-<table style="border: none; width: 70%;">
+<table style="border-collapse: collapse; width: 100%; border: none;">
   <tr>
-    <td style="border: none;"><center><img src="/images/IMG_6015.png"  width="150"></center></td>
-    <td style="border: none;">
+    <td style="border: none; vertical-align: top;">
+      <center><img src="/images/IMG_6015.png" width="150"></center>
+    </td>
+    <td style="border: none; vertical-align: top;">
       <div>
         <p>
           <a href="mailto:edouard.koehn@berkeley.edu">
@@ -15,12 +17,10 @@
           </a>
         </p>
         <p>Visiting @ <a href="https://bouchardlab.lbl.gov/">Neural System and Machine Learning Lab, UC Berkeley</a></p>
-        <p>Master Student @ <a href="https://www.epfl.ch/fr/">NeuroX, EPFL</a></p>
       </div>
     </td>
   </tr>
 </table>
-
 ### Bio
 I am currently a visiting student at [UC Berkeley](https://www.berkeley.edu/), working on biologically constrained Recurrent Neuronal Networks. I am enrolled in the Neuro-X master's program at [EPFL](https://neuro-x.epfl.ch/en/). Proudly grounded in the interdisciplinary field, I made my way from biomechanics and sports science to computational neuroscience. 
 
