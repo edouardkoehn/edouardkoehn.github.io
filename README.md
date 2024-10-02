@@ -1,8 +1,11 @@
+<center><img src="/images/IMG_6015.png"  width="150"><center>
+
 [![Email](https://img.icons8.com/material-outlined/24/000000/mail.png)](mailto:edouard.koehn@berkeley.edu)
 [![GitHub](https://img.icons8.com/material-outlined/24/000000/github.png)](https://github.com/edouardkoehn)
 [![LinkedIn](https://img.icons8.com/material-outlined/24/000000/linkedin.png)](https://www.linkedin.com/in/edouard-koehn-25420a202/)
 
-![](/images)
+
+
 Visiting @ [Neural System and Machine Learning Lab, UC Berkeley](https://bouchardlab.lbl.gov/)
 
 ### Bio
@@ -13,8 +16,9 @@ I am passionate about using computer science to explain and understand behavior.
 Subjects that I would like to explore in the future:
 - Brain-computer interfaces
 - Graph neuronal networks 
-- Mammalian movement control 
-
+- Mammalian movement control
+  
+### [Resume](https://github.com/edouardkoehn/edouardkoehn.github.io/blob/main/images/CV.pdf)
 ### Projects
 
 - Digital humanities: [Lausanne Time Machine](https://projects.lausannetimemachine.ch/student-project-2023-2024-presse/).
