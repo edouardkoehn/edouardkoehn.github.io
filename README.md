@@ -1,9 +1,8 @@
-<table>
+<table style="border-collapse: collapse; width: 100%;">
   <tr>
-    <td><center><img src="/images/IMG_6015.png"  width="150"></center></td>
-    <td>
+    <td style="border: none;"><center><img src="/images/IMG_6015.png"  width="150"></center></td>
+    <td style="border: none;">
       <div>
-         <p>Visiting @ <a href="https://bouchardlab.lbl.gov/">Neural System and Machine Learning Lab, UC Berkeley</a></p>
         <p>
           <a href="mailto:edouard.koehn@berkeley.edu">
             <img src="https://img.icons8.com/material-outlined/24/000000/mail.png">
@@ -15,6 +14,8 @@
             <img src="https://img.icons8.com/material-outlined/24/000000/linkedin.png">
           </a>
         </p>
+        <p>Visiting @ <a href="https://bouchardlab.lbl.gov/">Neural System and Machine Learning Lab, UC Berkeley</a></p>
+        <p>Master Student @ <a href="https://www.epfl.ch/fr/">NeuroX, EPFL</a></p>
       </div>
     </td>
   </tr>
