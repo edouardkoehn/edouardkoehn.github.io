@@ -1,8 +1,7 @@
-Sure! Here’s the corrected version:
+[![Email](https://img.icons8.com/material-outlined/24/000000/mail.png)](mailto:edouard.koehn@berkeley.edu)
+[![GitHub](https://img.icons8.com/material-outlined/24/000000/github.png)](https://github.com/edouardkoehn)
+[![LinkedIn](https://img.icons8.com/material-outlined/24/000000/linkedin.png)](https://www.linkedin.com/in/edouard-koehn/)
 
-## ![](/edouardkoehn.github.io/images/IMG_6015.png)
-[edouard.koehn@berkeley.edu](edouard.koehn@berkeley.edu)
-[]
 Visiting @ [Neural System and Machine Learning Lab, UC Berkeley](https://bouchardlab.lbl.gov/)
 
 ### Bio
