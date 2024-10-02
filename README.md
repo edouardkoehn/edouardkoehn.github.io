@@ -2,6 +2,7 @@
 [![GitHub](https://img.icons8.com/material-outlined/24/000000/github.png)](https://github.com/edouardkoehn)
 [![LinkedIn](https://img.icons8.com/material-outlined/24/000000/linkedin.png)](https://www.linkedin.com/in/edouard-koehn-25420a202/)
 
+![](/images)
 Visiting @ [Neural System and Machine Learning Lab, UC Berkeley](https://bouchardlab.lbl.gov/)
 
 ### Bio
