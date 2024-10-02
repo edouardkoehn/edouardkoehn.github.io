@@ -1,6 +1,8 @@
 Sure! Here’s the corrected version:
 
 ## ![](/edouardkoehn.github.io/images/IMG_6015.png)
+[edouard.koehn@berkeley.edu](edouard.koehn@berkeley.edu)
+[]
 Visiting @ [Neural System and Machine Learning Lab, UC Berkeley](https://bouchardlab.lbl.gov/)
 
 ### Bio
