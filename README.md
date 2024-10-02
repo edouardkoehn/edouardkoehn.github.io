@@ -14,7 +14,6 @@ Subjects that I would like to explore in the future:
 - Graph neuronal networks 
 - Mammalian movement control 
 
-### [Resume](https://github.com/edouardkoehn/edouardkoehn.github.io/blob/main/images/CV.pdf)
 ### Projects
 
 - Digital humanities: [Lausanne Time Machine](https://projects.lausannetimemachine.ch/student-project-2023-2024-presse/).
