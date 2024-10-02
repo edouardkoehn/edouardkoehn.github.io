@@ -17,6 +17,7 @@
           </a>
         </p>
         <p>Visiting @ <a href="https://bouchardlab.lbl.gov/">Neural System and Machine Learning Lab, UC Berkeley</a></p>
+        <p>Master Student @ <a href="https://www.epfl.ch/fr/">NeuroX, EPFL</a></p>
       </div>
     </td>
   </tr>
