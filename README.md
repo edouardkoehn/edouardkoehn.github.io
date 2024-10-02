@@ -1,12 +1,24 @@
-<center><img src="/images/IMG_6015.png"  width="150"><center>
-
-[![Email](https://img.icons8.com/material-outlined/24/000000/mail.png)](mailto:edouard.koehn@berkeley.edu)
-[![GitHub](https://img.icons8.com/material-outlined/24/000000/github.png)](https://github.com/edouardkoehn)
-[![LinkedIn](https://img.icons8.com/material-outlined/24/000000/linkedin.png)](https://www.linkedin.com/in/edouard-koehn-25420a202/)
-
-
-
-Visiting @ [Neural System and Machine Learning Lab, UC Berkeley](https://bouchardlab.lbl.gov/)
+<table>
+  <tr>
+    <td><center><img src="/images/IMG_6015.png"  width="150"></center></td>
+    <td>
+      <div>
+         <p>Visiting @ <a href="https://bouchardlab.lbl.gov/">Neural System and Machine Learning Lab, UC Berkeley</a></p>
+        <p>
+          <a href="mailto:edouard.koehn@berkeley.edu">
+            <img src="https://img.icons8.com/material-outlined/24/000000/mail.png">
+          </a>
+          <a href="https://github.com/edouardkoehn">
+            <img src="https://img.icons8.com/material-outlined/24/000000/github.png">
+          </a>
+          <a href="https://www.linkedin.com/in/edouard-koehn-25420a202/">
+            <img src="https://img.icons8.com/material-outlined/24/000000/linkedin.png">
+          </a>
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ### Bio
 I am currently a visiting student at [UC Berkeley](https://www.berkeley.edu/), working on biologically constrained Recurrent Neuronal Networks. I am enrolled in the Neuro-X master's program at [EPFL](https://neuro-x.epfl.ch/en/). Proudly grounded in the interdisciplinary field, I made my way from biomechanics and sports science to computational neuroscience. 
