@@ -55,11 +55,14 @@ const Bio = () => {
           <a href="https://www.linkedin.com/in/edouard-koehn-25420a202/">
             <img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png" alt="LinkedIn icon" />
           </a>
-          </p>
-          <p>Visiting Student @ <a href="https://bouchardlab.lbl.gov/">NSML, UC Berkeley</a></p>
-          <p>Master Student @ <a href="https://www.epfl.ch/fr/">NeuroX, EPFL</a></p>
+          <a href="../images/CV_EdouardKoehn.pdf">
+            <img src="https://img.icons8.com/material-outlined/30/000000/document.png" alt="Resume" />
+          </a>
+          <br></br>
+          Visiting Student @ <a href="https://bouchardlab.lbl.gov/">NSML, UC Berkeley</a>
+          <br></br>
+          Master Student @ <a href="https://www.epfl.ch/fr/">NeuroX, EPFL</a></p>
         </div>
-      
     </div>
     
   )

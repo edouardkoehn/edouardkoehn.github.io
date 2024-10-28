@@ -13,8 +13,8 @@ module.exports = {
     title: `Edouard Koehn`,
     author: {
       name: `Edouard Koehn`,
-      summary: `'
-  `,
+      summary: ``,
+  
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://edouardkoehn.github.io/`,
