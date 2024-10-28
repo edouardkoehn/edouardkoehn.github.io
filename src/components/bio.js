@@ -9,6 +9,7 @@ import * as React from "react"
 import { useStaticQuery, graphql } from "gatsby"
 import { StaticImage } from "gatsby-plugin-image"
 
+
 const Bio = () => {
   const data = useStaticQuery(graphql`
     query BioQuery {
@@ -26,32 +27,41 @@ const Bio = () => {
     }
   `)
 
-  // Set these values by editing "siteMetadata" in gatsby-config.js
   const author = data.site.siteMetadata?.author
   const social = data.site.siteMetadata?.social
 
   return (
-    <div className="bio">
-      <StaticImage
-        className="bio-avatar"
-        layout="fixed"
-        formats={["auto", "webp", "avif"]}
-        src="../images/profile-pic.png"
-        width={50}
-        height={50}
-        quality={95}
-        alt="Profile picture"
-      />
-      {author?.name && (
+    <div className="bio-container">
+      <div className="bio-image">
+        <StaticImage
+          className="bio-avatar"
+          layout="fixed"
+          formats={["auto", "webp", "avif"]}
+          src="../images/profile-pic.jpeg"
+          width={200}
+          height={200}
+          quality={95}
+          alt="Profile picture"
+        />
+      </div>
+      <div className="bio-content">
         <p>
-          Written by <strong>{author.name}</strong> {author?.summary || null}
-          {` `}
-          <a href={`https://twitter.com/${social?.twitter || ``}`}>
-            You should follow them on Twitter
+          <a href="mailto:edouard.koehn@berkeley.edu">
+            <img src="https://img.icons8.com/material-outlined/30/000000/mail.png" alt="Email icon" />
           </a>
-        </p>
-      )}
+          <a href="https://github.com/edouardkoehn">
+            <img src="https://img.icons8.com/material-outlined/30/000000/github.png" alt="GitHub icon" />
+          </a>
+          <a href="https://www.linkedin.com/in/edouard-koehn-25420a202/">
+            <img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png" alt="LinkedIn icon" />
+          </a>
+          </p>
+          <p>Visiting Student @ <a href="https://bouchardlab.lbl.gov/">NSML, UC Berkeley</a></p>
+          <p>Master Student @ <a href="https://www.epfl.ch/fr/">NeuroX, EPFL</a></p>
+        </div>
+      
     </div>
+    
   )
 }
 

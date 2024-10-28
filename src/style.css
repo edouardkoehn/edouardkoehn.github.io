@@ -93,6 +93,7 @@ hr {
 
 /* Heading */
 
+
 h1,
 h2,
 h3,
@@ -104,6 +105,7 @@ h6 {
   margin-bottom: var(--spacing-6);
   line-height: var(--lineHeight-tight);
   letter-spacing: -0.025em;
+  
 }
 
 h2,
@@ -117,8 +119,9 @@ h6 {
 
 h1 {
   font-weight: var(--fontWeight-black);
-  font-size: var(--fontSize-6);
+  font-size: em; /* Smaller size */
   color: var(--color-heading-black);
+  text-align: left;
 }
 
 h2 {
@@ -294,10 +297,10 @@ a:focus {
 }
 
 .bio-avatar {
-  margin-right: var(--spacing-4);
-  margin-bottom: var(--spacing-0);
-  min-width: 50px;
-  border-radius: 100%;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 0;
 }
 
 .blog-post header h1 {
@@ -316,6 +319,35 @@ a:focus {
 .gatsby-highlight {
   margin-bottom: var(--spacing-8);
 }
+.bio-container {
+  display: flex; /* Align image and content side by side */
+  align-items: flex-start; /* Align items at the top */
+}
+
+.bio-image {
+  margin-right: 20px; /* Space between image and content */
+}
+
+.bio-content {
+  /* Additional styles for the bio content */
+  flex: 1; /* Allow content to grow and fill available space */
+}
+
+.summary {
+  margin-top: 1em; /* Vertical space before summary */
+  width: 100%; /* Take full width */
+  text-align: left; /* Align text to the left, can adjust as needed */
+  padding: 0 20px; /* Optional padding for better readability */
+  box-sizing: border-box; /* Include padding in width */
+}
+
+@media (max-width: 600px) {
+  .bio-container {
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
 
 /* Media queries */
 
@@ -328,4 +360,16 @@ a:focus {
   ol {
     list-style-position: inside;
   }
+}
+.summary-container {
+  margin: 20px 0;
+}
+
+.summary-container h2 {
+  font-size: 1.5em;
+}
+
+.summary-container p {
+  font-size: 1em;
+  line-height: 1.5;
 }
