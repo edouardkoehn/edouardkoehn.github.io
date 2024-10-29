@@ -1,105 +1,196 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://edouardkoehn.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 28 Oct 2024 15:28:07 GMT</lastBuildDate><item><title><![CDATA[ICL for locomotion, Mathis Group, EPFL- 2024]]></title><description><![CDATA[Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts. Separated they live in…]]></description><link>https://edouardkoehn.github.io/ICL_Mathis/</link><guid isPermaLink="false">https://edouardkoehn.github.io/ICL_Mathis/</guid><pubDate>Thu, 28 May 2015 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-right at the coast of the Semantics, a large language ocean. A small river named
-Duden flows by their place and supplies it with the necessary regelialia.&lt;/p&gt;
-&lt;h2&gt;On deer horse aboard tritely yikes and much&lt;/h2&gt;
-&lt;p&gt;The Big Oxmox advised her not to do so, because there were thousands of bad
-Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
-didn’t listen. She packed her seven versalia, put her initial into the belt and
-made herself on the way.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://edouardkoehn.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 29 Oct 2024 01:02:22 GMT</lastBuildDate><item><title><![CDATA[In-Context Learning for Locomotion, Mathis Group, EPFL - 2024]]></title><description><![CDATA[Transformer models have revolutionized the scientific landscape, rapidly surpassing traditional architectures across fields like computer…]]></description><link>https://edouardkoehn.github.io/ICL_Mathis/</link><guid isPermaLink="false">https://edouardkoehn.github.io/ICL_Mathis/</guid><pubDate>Fri, 28 Jun 2024 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Transformer models have revolutionized the scientific landscape, rapidly surpassing traditional architectures across fields like computer vision, natural language processing (NLP), and audio processing.&lt;/p&gt;
+&lt;p&gt;This architecture enables scaling up the data available to models during training, resulting in emergent behaviors. One such behavior is in-context learning (ICL) (&lt;a href=&quot;https://arxiv.org/pdf/2005.14165&quot;&gt;Brown et al., 2020&lt;/a&gt;). ICL allows models to address new tasks by integrating task demonstrations directly into the prompt, eliminating the need for fine-tuning.&lt;/p&gt;
+&lt;p&gt;Recently, ICL has been extended beyond NLP to other fields, such as &lt;a href=&quot;https://arxiv.org/pdf/2308.08536&quot;&gt;dynamical systems prediction&lt;/a&gt;. Meanwhile, Transformer-based models have also shown promising results in &lt;a href=&quot;https://arxiv.org/pdf/2106.01345&quot;&gt;reinforcement learning setups&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/edouardkoehn.github.io/static/b9aa0058bf2c0d2eccf01361047ee449/3ceac/img_0.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 41.77215189873418%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAICAYAAAD5nd/tAAAACXBIWXMAABYlAAAWJQFJUiTwAAABwElEQVR42kWRW4/SUBSF+6eN8UF/gIlvJsZxEh9NjL4aTZwQBDJFEAahZQplgA4GOgXKQG+nt8/TM152snL2Wnut3fZUoywpoy1EO4j3f+BL/l8ri4yqSuktiqKKqMplj8j5MKuhu6bSNJFmCOMjRe0xef0pRf0Zee0Jhf5cIb94RDZ8p8y2H/Dd2ZEJuVTy4/GICAK+OFOuD+7DwmoQ37uEdp34pkGyaBFOa/gznfubNuHkgvi2o8w1Z83rmsWnz3PSOCUSKc5qje967L0dgVyuyQ9huRec/Yg470W8vUp41Qk4b604a97ysn3ivZkSJBmng4/nbdnKcBgJ/EWPtfGNu92ezWZNcDqhZangECT0VwGDXyE/JXqyt7wYy42kHnK19ImTlH9V5urwWm9Yf31BIqkQCVmWoYVhSAV58xRZKr2ZbOVZ5BRVL5FEoXp6mqYyKBRK+UOiOMa2Z7iuy3w+x/d9tOVyyXg8ZmrbmONrDMNkZBhYkwmjkaE0y5oojylnpvkAW/orbTgcyozBYDBgsVigTWSw0WjQ7/dpt9sKnU5H8cvLS7rdruJ/9WazqcLVXNd1Na9eynEceY8bfgP7N0o1CufL4wAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Alt text&quot;
+        title=&quot;&quot;
+        src=&quot;/edouardkoehn.github.io/static/b9aa0058bf2c0d2eccf01361047ee449/f058b/img_0.png&quot;
+        srcset=&quot;/edouardkoehn.github.io/static/b9aa0058bf2c0d2eccf01361047ee449/c26ae/img_0.png 158w,
+/edouardkoehn.github.io/static/b9aa0058bf2c0d2eccf01361047ee449/6bdcf/img_0.png 315w,
+/edouardkoehn.github.io/static/b9aa0058bf2c0d2eccf01361047ee449/f058b/img_0.png 630w,
+/edouardkoehn.github.io/static/b9aa0058bf2c0d2eccf01361047ee449/40601/img_0.png 945w,
+/edouardkoehn.github.io/static/b9aa0058bf2c0d2eccf01361047ee449/78612/img_0.png 1260w,
+/edouardkoehn.github.io/static/b9aa0058bf2c0d2eccf01361047ee449/3ceac/img_0.png 1456w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;In this project, we explore ICL for complex Markov Decision Processes (MDPs). Specifically, we investigate whether Transformer-based policies can extract relevant information from their context to solve locomotion tasks.&lt;/p&gt;
+&lt;h3&gt;&lt;ins&gt;Technical details&lt;/ins&gt;:&lt;/h3&gt;
+&lt;p&gt;We trained a GPT-2-based policy in a supervised manner using the &lt;a href=&quot;https://www.gymlibrary.dev/index.html&quot;&gt;Open Gym framework&lt;/a&gt;. During training, we exposed the model to a set of morphologies sampled from a specific perturbation space. This approach, inspired by the work of &lt;a href=&quot;https://arxiv.org/pdf/2209.14218&quot;&gt;Chiappa et al.&lt;/a&gt;, allowed us to test our policy under various perturbations, simulating the concept of new tasks in our setup.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/edouardkoehn.github.io/static/056704e017faa80e26227800ffb705ca/71ba4/img_3.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 42.405063291139236%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAICAYAAAD5nd/tAAAACXBIWXMAABYlAAAWJQFJUiTwAAAB3UlEQVR42m2STWsTURSG86tcu3ApdSOtIFi/EAW7UQQ3ilSwCq0mCC2UQq0uWhRLmpAsKqiLxCASNUmbohZSkmgzSSaTzFcmk5k8nkmbUtALL3Pv3DvvPe9zJqQ1Guz/+InTaB6pW2/Qdxz+N7rdLqZpYNsWnuf9sx/qfM+zN36ByvgkZVFl4iJ7YxOo6QyuHLBNE0fMfd9nMBhg6Aa6rlOtlIk8nWNxYZ5XL5Z5Hn7Gp1SKkC2b+zs71ER/8gVqxeJw3VIUbKnGc/u0NW1oFozR07IsYvEY0dgGiWSC1bVVcrkcIT2o8Mw5qpeuU7l8g+rVm5ROn0X/kqVjm3xIxNmMRXkXj5JNpzh0PYoYXODY9sFcUoQ8Q3h8zWHnt7ELovwWRvabZO1S2v3F/dtThGemeXj3FovhWWFnY1gmWk2hdP4KpVNjgmyS3RMnqT2aFUMB64u7fwzsKFarrrC5sU5y/Q3Jt6/JfHw/ZBk0JpCj1PHUJj1B4qsdfMEXUgtbFK9NUX4wgxaep37nHlrmM6brYskBRz5syp8wusSV98G6IVI1FdXsk94uYpjKQZfd6m/akQU6Syu0l17SehLGlNhBh3tBFdLhnigwHBxj5x/O11J15mIRllceDw3/As0bN3tob0HgAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Alt text&quot;
+        title=&quot;&quot;
+        src=&quot;/edouardkoehn.github.io/static/056704e017faa80e26227800ffb705ca/f058b/img_3.png&quot;
+        srcset=&quot;/edouardkoehn.github.io/static/056704e017faa80e26227800ffb705ca/c26ae/img_3.png 158w,
+/edouardkoehn.github.io/static/056704e017faa80e26227800ffb705ca/6bdcf/img_3.png 315w,
+/edouardkoehn.github.io/static/056704e017faa80e26227800ffb705ca/f058b/img_3.png 630w,
+/edouardkoehn.github.io/static/056704e017faa80e26227800ffb705ca/40601/img_3.png 945w,
+/edouardkoehn.github.io/static/056704e017faa80e26227800ffb705ca/78612/img_3.png 1260w,
+/edouardkoehn.github.io/static/056704e017faa80e26227800ffb705ca/71ba4/img_3.png 1870w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;ins&gt;References&lt;/ins&gt;:&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;This however showed weasel&lt;/li&gt;
-&lt;li&gt;Well uncritical so misled
+&lt;li&gt;&lt;a href=&quot;https://arxiv.org/pdf/2209.14218&quot;&gt;A. S. Chiappa, A. M. Vargas, and A. Mathis, “DMAP: A Distributed Morphological Attention Policy for Learning to Locomote with a Changing Body”&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://arxiv.org/pdf/1706.03762&quot;&gt;A. Vaswani et al., “Attention is All You Need”&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://arxiv.org/abs/2306.14892&quot;&gt;J. N. Lee et al., “Supervised Pretraining Can Learn In-Context Reinforcement Learning”&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://arxiv.org/abs/2308.08536&quot;&gt;H. Balim, Z. Du, S. Oymak, and N. Ozay, “Can Transformers Learn Optimal Filtering for Unknown Systems?”&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;ins&gt;Supervision&lt;/ins&gt;:&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;this is very interesting&lt;/li&gt;
+&lt;li&gt;Alberto Chiappa - EPFL&lt;/li&gt;
+&lt;li&gt;Adriana Rotondo - EPFL&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[White Matter Atlas, MIPLAB, EPFL 2024]]></title><description><![CDATA[Abramian et al. proposed a graph-based representation of brain white matter (WM) that captures the underlying anisotropy observed in WM…]]></description><link>https://edouardkoehn.github.io/GRaph_MIPLAB/</link><guid isPermaLink="false">https://edouardkoehn.github.io/GRaph_MIPLAB/</guid><pubDate>Thu, 06 Jul 2023 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S1053811921003724?via%3Dihub&quot;&gt;Abramian et al.&lt;/a&gt; proposed a graph-based representation of brain white matter (WM) that captures the underlying anisotropy observed in WM using diffusion-weighted MRI data. Leveraging this method, we aimed to create a white matter atlas using voxel-wise white matter brain graphs derived from dMRI data.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/edouardkoehn.github.io/static/97be8a77ce506f276a8d91650bb390ee/eb1d2/Graph.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 49.36708860759494%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAABYlAAAWJQFJUiTwAAAB/UlEQVR42o2S32vTUBTH8yf45IOoCLIX3/yj/DOUDR1Yg06R2YGCFQYK4oMorq5jXdM0dG5Ou7rN2j00XZo0XZI2SZM0TZOv916b6mAPHjicw73nfs6vy4HIz6NDiIIAqSKiIpYhiSI21tfxdXcXhXweZaGEqlSBsFXEl2oVhc95mIZBnyJJEvwr3MtcDtmVFXQUBb7nwbZtOI4Dlyi19mDAfNd10e9bMIxTBouiiMHiOD4D5uYXFnBvcRGqqp6b8X9kMpkQ8BR4lwCf8A/QI5lT4AxK7dRPz9OKgiBANptFhn9IRiRAU5pIYh/cSVsGn7mPZrPBAiM/YHb1VQ4H33agt47xfHkZCH3E0fhPMlLNwLRw6cpVXL54Ad/XMqiVP2F4KoPb369j7vo11LaL6GmkbdthD96+XkWnVcfBnoQP794g9voYj0I2OzguTLWDuRs38ZS/hW5jCY9v30G7VgPXJhVuV9agtA7xo16fdRqPA4ROD5HbRzL2MQk8DMnCVE1jUJtAny3xaG7OY0d6jxePMjj51QBHAYos47hxhDgMZjMLRyNYpsk2SpVumQqdYUKV+CNThtXag64b2CqVWAwDFjcKkDY/Eoqb8uD7PrpdDRqpSNe75LsYsCwLwyn4PKHzZUBamW/3EHrOmUv6HWh7VFOf2r8x8VST2flvhUTaz2QwUJAAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Alt text&quot;
+        title=&quot;&quot;
+        src=&quot;/edouardkoehn.github.io/static/97be8a77ce506f276a8d91650bb390ee/f058b/Graph.png&quot;
+        srcset=&quot;/edouardkoehn.github.io/static/97be8a77ce506f276a8d91650bb390ee/c26ae/Graph.png 158w,
+/edouardkoehn.github.io/static/97be8a77ce506f276a8d91650bb390ee/6bdcf/Graph.png 315w,
+/edouardkoehn.github.io/static/97be8a77ce506f276a8d91650bb390ee/f058b/Graph.png 630w,
+/edouardkoehn.github.io/static/97be8a77ce506f276a8d91650bb390ee/40601/Graph.png 945w,
+/edouardkoehn.github.io/static/97be8a77ce506f276a8d91650bb390ee/78612/Graph.png 1260w,
+/edouardkoehn.github.io/static/97be8a77ce506f276a8d91650bb390ee/eb1d2/Graph.png 1622w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Once those graphs extracted, we applied spectral clustering to these them to obtain a parcellation of white matter. The strength of this approach lies in its ability to generate parcellations at both individual and population levels.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/edouardkoehn.github.io/static/7ae50410a9c4a204994d30dfe10e6650/541fe/EigenValue.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 26.58227848101266%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAFCAYAAABFA8wzAAAACXBIWXMAABYlAAAWJQFJUiTwAAABi0lEQVR42h2QSy9cAQCF774WaiHBoiEIsSgik3olRCJqQlBTMhNcrxH3XqbMLLzSlIrWLUq9H8PNMEgYFh5jDF3UYtKthV8gNo20mQUVE5/LWZ2TnMV3jjA++YMPDjvLLo3F2TlkWWJieoo19yqKTcLtdqFpK7QpVnZ3tll1ueiQ29jYWMe57MSqtLC/v8eTboNBBGN6JtKLBBrelpBlriU7qYD3BgOiaCc1uQlzdR3v6iTdV2NrtWERZV4aSqm11NNoaiQtrojOnj64eeDm6h+CWipy8cbGZoOD/KEeuqR5Fiqs9KpbKO3nfOx38nlAw6H8pn9hC7VvmGZ5jYEhJ58Gl+hoPkCb8xC8u+dP8B4hJy2DvLAYaoxlZBcX8io6npLcAkxmkcioTKqeCMtMxIa/pr3VjqW8gsSIFJ1QxFhpITIinu5OO//1yZd/rxG2PR5GpyY4OvbhP/IxPTPJoc+LX8/j31VOTvx4vYd8G/vK2dmv597wyBdOf55yoH83OqYSCASePwyFQjwC+Fj95d7zCuAAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Alt text&quot;
+        title=&quot;&quot;
+        src=&quot;/edouardkoehn.github.io/static/7ae50410a9c4a204994d30dfe10e6650/f058b/EigenValue.png&quot;
+        srcset=&quot;/edouardkoehn.github.io/static/7ae50410a9c4a204994d30dfe10e6650/c26ae/EigenValue.png 158w,
+/edouardkoehn.github.io/static/7ae50410a9c4a204994d30dfe10e6650/6bdcf/EigenValue.png 315w,
+/edouardkoehn.github.io/static/7ae50410a9c4a204994d30dfe10e6650/f058b/EigenValue.png 630w,
+/edouardkoehn.github.io/static/7ae50410a9c4a204994d30dfe10e6650/40601/EigenValue.png 945w,
+/edouardkoehn.github.io/static/7ae50410a9c4a204994d30dfe10e6650/78612/EigenValue.png 1260w,
+/edouardkoehn.github.io/static/7ae50410a9c4a204994d30dfe10e6650/541fe/EigenValue.png 1654w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;ins&gt;References&lt;/ins&gt;:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S1053811921003724?via%3Dihub&quot;&gt;D. Abramian, M. Larsson, A. Eklund, I. Aganj, C. Westin, H. Behjat, “Diffusion-informed spatial smoothing of fMRI data in white matter using spectral graph filters”&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/s41467-017-01285-x&quot;&gt;K. H. Maier-Hein et al., “The challenge of mapping the human connectome based on diffusion tractography”&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ieeexplore.ieee.org/document/8347162&quot;&gt;A. Ortega, P. Frossard, J. Kovačević, J. M. F. Moura, and P. Vandergheynst, “Graph Signal Processing: Overview, Challenges, and Applications”&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Goodness much until that fluid owl&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;When she reached the first hills of the &lt;strong&gt;Italic Mountains&lt;/strong&gt;, she had a last
-view back on the skyline of her hometown &lt;em&gt;Bookmarksgrove&lt;/em&gt;, the headline of
-&lt;a href=&quot;http://google.com&quot;&gt;Alphabet Village&lt;/a&gt; and the subline of her own road, the Line
-Lane. Pityful a rhetoric question ran over her cheek, then she continued her
-way. On her way she met a copy.&lt;/p&gt;
-&lt;h3&gt;Overlaid the jeepers uselessly much excluding&lt;/h3&gt;
-&lt;p&gt;But nothing the copy said could convince her and so it didn’t take long until a
-few insidious Copy Writers ambushed her, made her drunk with
-&lt;a href=&quot;http://google.com&quot;&gt;Longe and Parole&lt;/a&gt; and dragged her into their agency, where
-they abused her for their projects again and again. And if she hasn’t been
-rewritten, then they are still using her.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-right at the coast of the Semantics, a large language ocean.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;It is a paradisematic country, in which roasted parts of sentences fly into your
-mouth. Even the all-powerful Pointing has no control about the blind texts it is
-an almost unorthographic life One day however a small line of blind text by the
-name of Lorem Ipsum decided to leave for the far World of Grammar.&lt;/p&gt;
-&lt;h3&gt;According a funnily until pre-set or arrogant well cheerful&lt;/h3&gt;
-&lt;p&gt;The Big Oxmox advised her not to do so, because there were thousands of bad
-Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
-didn’t listen. She packed her seven versalia, put her initial into the belt and
-made herself on the way.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;So baboon this&lt;/li&gt;
-&lt;li&gt;Mounted militant weasel gregariously admonishingly straightly hey&lt;/li&gt;
-&lt;li&gt;Dear foresaw hungry and much some overhung&lt;/li&gt;
-&lt;li&gt;Rash opossum less because less some amid besides yikes jeepers frenetic
-impassive fruitlessly shut&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;When she reached the first hills of the Italic Mountains, she had a last view
-back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet
-Village and the subline of her own road, the Line Lane. Pityful a rhetoric
-question ran over her cheek, then she continued her way. On her way she met a
-copy.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;The copy warned the Little Blind Text, that where it came from it would have
-been rewritten a thousand times and everything that was left from its origin
-would be the word &quot;and&quot; and the Little Blind Text should turn around and
-return to its own, safe country.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;But nothing the copy said could convince her and so it didn’t take long until a
-few insidious Copy Writers ambushed her, made her drunk with Longe and Parole
-and dragged her into their agency, where they abused her for their projects
-again and again. And if she hasn’t been rewritten, then they are still using
-her. Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts.&lt;/p&gt;
-&lt;h4&gt;Silent delightfully including because before one up barring chameleon&lt;/h4&gt;
-&lt;p&gt;Separated they live in Bookmarksgrove right at the coast of the Semantics, a
-large language ocean. A small river named Duden flows by their place and
-supplies it with the necessary regelialia. It is a paradisematic country, in
-which roasted parts of sentences fly into your mouth.&lt;/p&gt;
-&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an
-almost unorthographic life One day however a small line of blind text by the
-name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox
-advised her not to do so, because there were thousands of bad Commas, wild
-Question Marks and devious Semikoli, but the Little Blind Text didn’t listen.&lt;/p&gt;
-&lt;h5&gt;Wherever far wow thus a squirrel raccoon jeez jaguar this from along&lt;/h5&gt;
-&lt;p&gt;She packed her seven versalia, put her initial into the belt and made herself on
-the way. When she reached the first hills of the Italic Mountains, she had a
-last view back on the skyline of her hometown Bookmarksgrove, the headline of
-Alphabet Village and the subline of her own road, the Line Lane. Pityful a
-rhetoric question ran over her cheek, then she continued her way. On her way she
-met a copy.&lt;/p&gt;
-&lt;h6&gt;Slapped cozy a that lightheartedly and far&lt;/h6&gt;
-&lt;p&gt;The copy warned the Little Blind Text, that where it came from it would have
-been rewritten a thousand times and everything that was left from its origin
-would be the word &quot;and&quot; and the Little Blind Text should turn around and return
-to its own, safe country. But nothing the copy said could convince her and so it
-didn’t take long until a few insidious Copy Writers ambushed her, made her drunk
-with Longe and Parole and dragged her into their agency, where they abused her
-for their projects again and again.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Human connectome, MIPLAB, EPFL 2024]]></title><description><![CDATA[Wow! I love blogging so much already. Did you know that "despite its name, salted duck eggs can also be made from
-chicken eggs, though the…]]></description><link>https://edouardkoehn.github.io/GRaph_MIPLAB/</link><guid isPermaLink="false">https://edouardkoehn.github.io/GRaph_MIPLAB/</guid><pubDate>Wed, 06 May 2015 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;Wow! I love blogging so much already.&lt;/p&gt;
-&lt;p&gt;Did you know that &quot;despite its name, salted duck eggs can also be made from
-chicken eggs, though the taste and texture will be somewhat different, and the
-egg yolk will be less rich.&quot;?
-(&lt;a href=&quot;https://en.wikipedia.org/wiki/Salted_duck_egg&quot;&gt;Wikipedia Link&lt;/a&gt;)&lt;/p&gt;
-&lt;p&gt;Yeah, I didn&apos;t either.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Performance analysis in alpine skiing]]></title><description><![CDATA[Wow! I love blogging so much already. Did you know that "despite its name, salted duck eggs can also be made from
-chicken eggs, though the…]]></description><link>https://edouardkoehn.github.io/Ski/</link><guid isPermaLink="false">https://edouardkoehn.github.io/Ski/</guid><pubDate>Wed, 06 May 2015 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;Wow! I love blogging so much already.&lt;/p&gt;
-&lt;p&gt;Did you know that &quot;despite its name, salted duck eggs can also be made from
-chicken eggs, though the taste and texture will be somewhat different, and the
-egg yolk will be less rich.&quot;?
-(&lt;a href=&quot;https://en.wikipedia.org/wiki/Salted_duck_egg&quot;&gt;Wikipedia Link&lt;/a&gt;)&lt;/p&gt;
-&lt;p&gt;Yeah, I didn&apos;t either.&lt;/p&gt;</content:encoded></item></channel></rss>
+&lt;h3&gt;&lt;ins&gt;Supervision&lt;/ins&gt;:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Hamid Behjat - EPFL&lt;/li&gt;
+&lt;li&gt;Andrea Santoro - EPFL&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Performance Analysis in Alpine Skiing]]></title><description><![CDATA[During my internship at the Swiss Ski Federation, we worked on using Global Navigation Satellite System (GNSS) tracking data for performance…]]></description><link>https://edouardkoehn.github.io/Ski/</link><guid isPermaLink="false">https://edouardkoehn.github.io/Ski/</guid><pubDate>Mon, 06 Apr 2020 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;During my internship at the Swiss Ski Federation, we worked on using Global Navigation Satellite System (GNSS) tracking data for performance analysis in winter sports.
+In this context, we applied GNSS technology to various case studies and disciplines, including ski-cross, cross-country skiing, and alpine skiing. This &lt;a href=&quot;https://www.semanticscholar.org/paper/Identification-of-the-optimal-racing-line-for-top-a-Gallimore-Koehn/b513b7de53b82d7430b6324abf50bd5a1ba402a7&quot;&gt;paper&lt;/a&gt; highlights one of the analyses conducted during the winter of 2020.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/edouardkoehn.github.io/static/5707b55782ada53ea977b74d0c2de21a/d544a/img_01.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 50.632911392405056%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAABYlAAAWJQFJUiTwAAABkklEQVR42o1R127CQBDk/9/zB/mIJFIUSgQEY2xiA8b0XgyYYkSEy8SziQmIl6w0mr27vbnZvVQURXBdN8YGmw2xxnq9hnf0wIiiEKy5BsM7uyi2FGSNGuzBAIHvy37KjxOlrKBQLKCiVWCYBgzjE1qcVyoqGlYDasy1milnelWDbbXw0czg8f0BT9ozXqqvCP3gTzCXyyGbyaJer0NRFKTf0tA1Pc7LyOfzKJVKUFVV2LZtBEGA3WELrVVEa6HD+3LxExFSPNR1Hc1mE5ZlwTTN2E1NYBhG7FRDt9sVkfP5jDAMf0cR8f5diOBkMrlgOp1iPB5jPp/LbJfLJRzHkXy1Wl2Yc3acpcz9RpAvJmKz2UxAQV48nU44Ho/wPO+OicPhIDXXn5Vi0m63ZTZktkxmu51OR9zRLZ0uFgtZk+mQ4AN3Dgfxt3NOvV5PMBwOZU3h0Wgkjvv9vuyxE+YUTZzu93uZ8Y0gRVjMnBcoROZH8fJutxOwze12KyJk7pGTz5KWkzY4PwqzDRbwVSIp/k98AycO62/7kTZAAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Alt text&quot;
+        title=&quot;&quot;
+        src=&quot;/edouardkoehn.github.io/static/5707b55782ada53ea977b74d0c2de21a/f058b/img_01.png&quot;
+        srcset=&quot;/edouardkoehn.github.io/static/5707b55782ada53ea977b74d0c2de21a/c26ae/img_01.png 158w,
+/edouardkoehn.github.io/static/5707b55782ada53ea977b74d0c2de21a/6bdcf/img_01.png 315w,
+/edouardkoehn.github.io/static/5707b55782ada53ea977b74d0c2de21a/f058b/img_01.png 630w,
+/edouardkoehn.github.io/static/5707b55782ada53ea977b74d0c2de21a/40601/img_01.png 945w,
+/edouardkoehn.github.io/static/5707b55782ada53ea977b74d0c2de21a/78612/img_01.png 1260w,
+/edouardkoehn.github.io/static/5707b55782ada53ea977b74d0c2de21a/d544a/img_01.png 1950w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item></channel></rss>
