@@ -55,7 +55,7 @@ const Bio = () => {
           <a href="https://www.linkedin.com/in/edouard-koehn-25420a202/">
             <img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png" alt="LinkedIn icon" />
           </a>
-          <a href="../images/CV_EdouardKoehn.pdf">
+          <a href="https://github.com/edouardkoehn/edouardkoehn.github.io/blob/main/src/images/CV_EdouardKoehn.pdf">
             <img src="https://img.icons8.com/material-outlined/30/000000/document.png" alt="Resume" />
           </a>
           <br></br>
