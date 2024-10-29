@@ -1,108 +1,30 @@
 ---
-title: ICL for locomotion, Mathis Group, EPFL- 2024
-date: "2015-05-28T22:40:32.169Z"
-description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
+title: In-Context Learning for Locomotion, Mathis Group, EPFL - 2024  
+date: "2024-06-28T22:40:32.169Z"  
+description: Can Transformers display adaptive behavior when applied to complex Markov Decision Processes?
 ---
 
-Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-right at the coast of the Semantics, a large language ocean. A small river named
-Duden flows by their place and supplies it with the necessary regelialia.
+Transformer models have revolutionized the scientific landscape, rapidly surpassing traditional architectures across fields like computer vision, natural language processing (NLP), and audio processing.
 
-## On deer horse aboard tritely yikes and much
+This architecture enables scaling up the data available to models during training, resulting in emergent behaviors. One such behavior is in-context learning (ICL) ([Brown et al., 2020](https://arxiv.org/pdf/2005.14165)). ICL allows models to address new tasks by integrating task demonstrations directly into the prompt, eliminating the need for fine-tuning.
 
-The Big Oxmox advised her not to do so, because there were thousands of bad
-Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
-didn’t listen. She packed her seven versalia, put her initial into the belt and
-made herself on the way.
+Recently, ICL has been extended beyond NLP to other fields, such as [dynamical systems prediction](https://arxiv.org/pdf/2308.08536). Meanwhile, Transformer-based models have also shown promising results in [reinforcement learning setups](https://arxiv.org/pdf/2106.01345).
 
-- This however showed weasel
-- Well uncritical so misled
-  - this is very interesting
-- Goodness much until that fluid owl
+![Alt text](img_0.png)
 
-When she reached the first hills of the **Italic Mountains**, she had a last
-view back on the skyline of her hometown _Bookmarksgrove_, the headline of
-[Alphabet Village](http://google.com) and the subline of her own road, the Line
-Lane. Pityful a rhetoric question ran over her cheek, then she continued her
-way. On her way she met a copy.
+In this project, we explore ICL for complex Markov Decision Processes (MDPs). Specifically, we investigate whether Transformer-based policies can extract relevant information from their context to solve locomotion tasks.
 
-### Overlaid the jeepers uselessly much excluding
+### <ins>Technical details</ins>:
+We trained a GPT-2-based policy in a supervised manner using the [Open Gym framework](https://www.gymlibrary.dev/index.html). During training, we exposed the model to a set of morphologies sampled from a specific perturbation space. This approach, inspired by the work of [Chiappa et al.](https://arxiv.org/pdf/2209.14218), allowed us to test our policy under various perturbations, simulating the concept of new tasks in our setup.
 
-But nothing the copy said could convince her and so it didn’t take long until a
-few insidious Copy Writers ambushed her, made her drunk with
-[Longe and Parole](http://google.com) and dragged her into their agency, where
-they abused her for their projects again and again. And if she hasn’t been
-rewritten, then they are still using her.
+![Alt text](img_3.png)
 
-> Far far away, behind the word mountains, far from the countries Vokalia and
-> Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-> right at the coast of the Semantics, a large language ocean.
+### <ins>References</ins>:
+- [A. S. Chiappa, A. M. Vargas, and A. Mathis, “DMAP: A Distributed Morphological Attention Policy for Learning to Locomote with a Changing Body”](https://arxiv.org/pdf/2209.14218)
+- [A. Vaswani et al., “Attention is All You Need”](https://arxiv.org/pdf/1706.03762)
+- [J. N. Lee et al., “Supervised Pretraining Can Learn In-Context Reinforcement Learning”](http://arxiv.org/abs/2306.14892)
+- [H. Balim, Z. Du, S. Oymak, and N. Ozay, “Can Transformers Learn Optimal Filtering for Unknown Systems?”](http://arxiv.org/abs/2308.08536)
 
-It is a paradisematic country, in which roasted parts of sentences fly into your
-mouth. Even the all-powerful Pointing has no control about the blind texts it is
-an almost unorthographic life One day however a small line of blind text by the
-name of Lorem Ipsum decided to leave for the far World of Grammar.
-
-### According a funnily until pre-set or arrogant well cheerful
-
-The Big Oxmox advised her not to do so, because there were thousands of bad
-Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
-didn’t listen. She packed her seven versalia, put her initial into the belt and
-made herself on the way.
-
-1.  So baboon this
-2.  Mounted militant weasel gregariously admonishingly straightly hey
-3.  Dear foresaw hungry and much some overhung
-4.  Rash opossum less because less some amid besides yikes jeepers frenetic
-    impassive fruitlessly shut
-
-When she reached the first hills of the Italic Mountains, she had a last view
-back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet
-Village and the subline of her own road, the Line Lane. Pityful a rhetoric
-question ran over her cheek, then she continued her way. On her way she met a
-copy.
-
-> The copy warned the Little Blind Text, that where it came from it would have
-> been rewritten a thousand times and everything that was left from its origin
-> would be the word "and" and the Little Blind Text should turn around and
-> return to its own, safe country.
-
-But nothing the copy said could convince her and so it didn’t take long until a
-few insidious Copy Writers ambushed her, made her drunk with Longe and Parole
-and dragged her into their agency, where they abused her for their projects
-again and again. And if she hasn’t been rewritten, then they are still using
-her. Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts.
-
-#### Silent delightfully including because before one up barring chameleon
-
-Separated they live in Bookmarksgrove right at the coast of the Semantics, a
-large language ocean. A small river named Duden flows by their place and
-supplies it with the necessary regelialia. It is a paradisematic country, in
-which roasted parts of sentences fly into your mouth.
-
-Even the all-powerful Pointing has no control about the blind texts it is an
-almost unorthographic life One day however a small line of blind text by the
-name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox
-advised her not to do so, because there were thousands of bad Commas, wild
-Question Marks and devious Semikoli, but the Little Blind Text didn’t listen.
-
-##### Wherever far wow thus a squirrel raccoon jeez jaguar this from along
-
-She packed her seven versalia, put her initial into the belt and made herself on
-the way. When she reached the first hills of the Italic Mountains, she had a
-last view back on the skyline of her hometown Bookmarksgrove, the headline of
-Alphabet Village and the subline of her own road, the Line Lane. Pityful a
-rhetoric question ran over her cheek, then she continued her way. On her way she
-met a copy.
-
-###### Slapped cozy a that lightheartedly and far
-
-The copy warned the Little Blind Text, that where it came from it would have
-been rewritten a thousand times and everything that was left from its origin
-would be the word "and" and the Little Blind Text should turn around and return
-to its own, safe country. But nothing the copy said could convince her and so it
-didn’t take long until a few insidious Copy Writers ambushed her, made her drunk
-with Longe and Parole and dragged her into their agency, where they abused her
-for their projects again and again.
+### <ins>Supervision</ins>:
+- Alberto Chiappa - EPFL
+- Adriana Rotondo - EPFL

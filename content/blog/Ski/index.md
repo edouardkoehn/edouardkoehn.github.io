@@ -1,13 +1,9 @@
 ---
-title: Performance analysis in alpine skiing
-date: "2015-05-06T23:46:37.121Z"
+title: Performance Analysis in Alpine Skiing  
+date: "2020-04-06T23:46:37.121Z"  
 ---
 
-Wow! I love blogging so much already.
+During my internship at the Swiss Ski Federation, we worked on using Global Navigation Satellite System (GNSS) tracking data for performance analysis in winter sports. 
+In this context, we applied GNSS technology to various case studies and disciplines, including ski-cross, cross-country skiing, and alpine skiing. This [paper](https://www.semanticscholar.org/paper/Identification-of-the-optimal-racing-line-for-top-a-Gallimore-Koehn/b513b7de53b82d7430b6324abf50bd5a1ba402a7) highlights one of the analyses conducted during the winter of 2020.
 
-Did you know that "despite its name, salted duck eggs can also be made from
-chicken eggs, though the taste and texture will be somewhat different, and the
-egg yolk will be less rich."?
-([Wikipedia Link](https://en.wikipedia.org/wiki/Salted_duck_egg))
-
-Yeah, I didn't either.
+![Alt text](img_01.png)
