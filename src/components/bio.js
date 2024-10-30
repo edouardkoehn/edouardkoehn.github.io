@@ -59,9 +59,9 @@ const Bio = () => {
             <img src="https://img.icons8.com/material-outlined/30/000000/document.png" alt="Resume" />
           </a>
           <br></br>
-          Visiting Student @ <a href="https://bouchardlab.lbl.gov/">NSML, UC Berkeley</a>
+          <strong>Visiting Student</strong> @ <a href="https://bouchardlab.lbl.gov/">NSML, UC Berkeley</a>
           <br></br>
-          Master Student @ <a href="https://www.epfl.ch/fr/">NeuroX, EPFL</a></p>
+          <strong>Master Student in Neuroengineering </strong> @ <a href="https://www.epfl.ch/fr/">NeuroX EPFL</a></p>
         </div>
     </div>
     
