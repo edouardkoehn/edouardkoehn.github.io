@@ -1,6 +1,7 @@
 ---
 title: Brain White Matter Atlas - MIPLAB - EPFL
 date: "2023-07-06T23:46:37.121Z"  
+github_link: https://github.com/edouardkoehn/WM_Atlas
 keywords: ["dMRI -", " Graph signal processing -", " Machine learning"]
 ---
 

@@ -20,7 +20,16 @@ const BlogPostTemplate = ({
       >
         <header>
           <h1 itemProp="headline">{post.frontmatter.title}</h1>
-          <p>{post.frontmatter.date}</p>
+          <p style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+            {post.frontmatter.github_link && (
+              <a href={post.frontmatter.github_link} >
+                <img
+                  src="https://img.icons8.com/material-outlined/30/000000/github.png"
+                  alt="GitHub icon"/>
+              </a>
+            )}
+            <span>{post.frontmatter.date}</span>
+          </p>
         </header>
         <section
           dangerouslySetInnerHTML={{ __html: post.html }}
@@ -94,6 +103,7 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         description
         keywords
+        github_link
       }
     }
     previous: markdownRemark(id: { eq: $previousPostId }) {

@@ -1,6 +1,7 @@
 ---
 title: In-Context Learning for Locomotion - Mathis Group - EPFL
 date: "2024-06-28T22:40:32.169Z"  
+github_link: "https://github.com/edouardkoehn/WM_Atlas"
 keywords: ["Transformers - ", "Reinforcement learning "] 
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: Fluorescent Astrocytes - Genomics & Health Informatics - Idiap  
 date: "2023-01-20T22:40:32.169Z"  
-keywords: ["Computer Vision - ", "CNN - ", "AI Explainability"]  
+keywords: ["Computer Vision - ", "CNN - ", "AI Explainability"] 
+github_link: ""
 ---
 
 Astrocytes are star-shaped glial cells found in the brain and spinal cord, performing numerous essential functions in the central nervous system, such as providing structural support for neurons, maintaining the extracellular environment, and managing the blood-brain barrier. Different astrocytes can display vastly distinct morphologies. Astrocytes also exhibit various functional states in response to signals, notably the A1 and A2 states: A1 astrocytes are pro-inflammatory, often damaging tissue in cases like brain injury, while A2 astrocytes support repair and regeneration.
