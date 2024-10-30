@@ -19,7 +19,7 @@ module.exports = {
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://edouardkoehn.github.io/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: ``,
       github: `edouardkoehn`,
       linkedin: `edouard-koehn-25420a202`,
     },
@@ -101,6 +101,7 @@ module.exports = {
                   frontmatter {
                     title
                     date
+
                   }
                 }
               }

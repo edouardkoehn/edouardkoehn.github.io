@@ -1,7 +1,7 @@
 ---
-title: In-Context Learning for Locomotion, Mathis Group, EPFL - 2024  
+title: In-Context Learning for Locomotion - Mathis Group - EPFL
 date: "2024-06-28T22:40:32.169Z"  
-description: Can Transformers display adaptive behavior when applied to complex Markov Decision Processes?
+keywords: ["Transformers - ", "Reinforcement learning "] 
 ---
 
 Transformer models have revolutionized the scientific landscape, rapidly surpassing traditional architectures across fields like computer vision, natural language processing (NLP), and audio processing.

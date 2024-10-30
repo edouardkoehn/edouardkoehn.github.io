@@ -373,3 +373,16 @@ a:focus {
   font-size: 1em;
   line-height: 1.5;
 }
+
+.keywords {
+  color: gray;
+  font-family: "Impact", sans-serif; /* Replace with your preferred font */
+  font-size: 1.2rem;
+  margin-top: 10px;
+  font-style: italic
+}
+
+.keyword {
+  margin-right: 5px;
+  ; /* Add spacing between keywords */
+}

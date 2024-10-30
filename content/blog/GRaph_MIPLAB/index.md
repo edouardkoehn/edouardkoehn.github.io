@@ -1,16 +1,16 @@
 ---
-title: White Matter Atlas, MIPLAB, EPFL 2024  
+title: Brain White Matter Atlas - MIPLAB - EPFL
 date: "2023-07-06T23:46:37.121Z"  
+keywords: ["dMRI -", " Graph signal processing -", " Machine learning"]
 ---
 
-[Abramian et al.](https://www.sciencedirect.com/science/article/pii/S1053811921003724?via%3Dihub) proposed a graph-based representation of brain white matter (WM) that captures the underlying anisotropy observed in WM using diffusion-weighted MRI data. Leveraging this method, we aimed to create a white matter atlas using voxel-wise white matter brain graphs derived from dMRI data.
+[Abramian et al.](https://www.sciencedirect.com/science/article/pii/S1053811921003724?via%3Dihub) introduced a graph-based approach to model brain white matter (WM) that captures its inherent anisotropy through diffusion-weighted MRI data. Building on this, we developed a white matter atlas using voxel-level white matter brain graphs derived from dMRI data.
 
-![Alt text](Graph.png)
+![White Matter Brain Graphs](Graph.png)
 
-Once those graphs extracted, we applied spectral clustering to these them to obtain a parcellation of white matter. The strength of this approach lies in its ability to generate parcellations at both individual and population levels.
+After graph extraction, spectral clustering was applied to obtain a parcellation of the white matter. This method offers flexibility, allowing us to produce parcellations at both individual and population scales, thereby harnessing inter-subject variability.
 
-![Alt text](EigenValue.png)  
-
+![Spectral Clustering of WM](EigenValue.png)  
 
 ### <ins>References</ins>:
 - [D. Abramian, M. Larsson, A. Eklund, I. Aganj, C. Westin, H. Behjat, “Diffusion-informed spatial smoothing of fMRI data in white matter using spectral graph filters”](https://www.sciencedirect.com/science/article/pii/S1053811921003724?via%3Dihub)  

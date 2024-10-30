@@ -1,6 +1,7 @@
 ---
-title: Performance Analysis in Alpine Skiing  
+title: Performance Analysis in Alpine Skiing  - SwissSki
 date: "2020-04-06T23:46:37.121Z"  
+keywords: ["GNNS -", "Datascience -", "Biomechanics"] 
 ---
 
 During my internship at the Swiss Ski Federation, we worked on using Global Navigation Satellite System (GNSS) tracking data for performance analysis in winter sports. 
