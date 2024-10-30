@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://edouardkoehn.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 29 Oct 2024 01:05:00 GMT</lastBuildDate><item><title><![CDATA[In-Context Learning for Locomotion, Mathis Group, EPFL - 2024]]></title><description><![CDATA[Transformer models have revolutionized the scientific landscape, rapidly surpassing traditional architectures across fields like computer…]]></description><link>https://edouardkoehn.github.io/ICL_Mathis/</link><guid isPermaLink="false">https://edouardkoehn.github.io/ICL_Mathis/</guid><pubDate>Fri, 28 Jun 2024 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Transformer models have revolutionized the scientific landscape, rapidly surpassing traditional architectures across fields like computer vision, natural language processing (NLP), and audio processing.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://edouardkoehn.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 30 Oct 2024 21:21:18 GMT</lastBuildDate><item><title><![CDATA[In-Context Learning for Locomotion - Mathis Group - EPFL]]></title><description><![CDATA[Transformer models have revolutionized the scientific landscape, rapidly surpassing traditional architectures across fields like computer…]]></description><link>https://edouardkoehn.github.io/ICL_Mathis/</link><guid isPermaLink="false">https://edouardkoehn.github.io/ICL_Mathis/</guid><pubDate>Fri, 28 Jun 2024 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Transformer models have revolutionized the scientific landscape, rapidly surpassing traditional architectures across fields like computer vision, natural language processing (NLP), and audio processing.&lt;/p&gt;
 &lt;p&gt;This architecture enables scaling up the data available to models during training, resulting in emergent behaviors. One such behavior is in-context learning (ICL) (&lt;a href=&quot;https://arxiv.org/pdf/2005.14165&quot;&gt;Brown et al., 2020&lt;/a&gt;). ICL allows models to address new tasks by integrating task demonstrations directly into the prompt, eliminating the need for fine-tuning.&lt;/p&gt;
 &lt;p&gt;Recently, ICL has been extended beyond NLP to other fields, such as &lt;a href=&quot;https://arxiv.org/pdf/2308.08536&quot;&gt;dynamical systems prediction&lt;/a&gt;. Meanwhile, Transformer-based models have also shown promising results in &lt;a href=&quot;https://arxiv.org/pdf/2106.01345&quot;&gt;reinforcement learning setups&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;span
@@ -81,7 +81,7 @@
 &lt;ul&gt;
 &lt;li&gt;Alberto Chiappa - EPFL&lt;/li&gt;
 &lt;li&gt;Adriana Rotondo - EPFL&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[White Matter Atlas, MIPLAB, EPFL 2024]]></title><description><![CDATA[Abramian et al. proposed a graph-based representation of brain white matter (WM) that captures the underlying anisotropy observed in WM…]]></description><link>https://edouardkoehn.github.io/GRaph_MIPLAB/</link><guid isPermaLink="false">https://edouardkoehn.github.io/GRaph_MIPLAB/</guid><pubDate>Thu, 06 Jul 2023 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S1053811921003724?via%3Dihub&quot;&gt;Abramian et al.&lt;/a&gt; proposed a graph-based representation of brain white matter (WM) that captures the underlying anisotropy observed in WM using diffusion-weighted MRI data. Leveraging this method, we aimed to create a white matter atlas using voxel-wise white matter brain graphs derived from dMRI data.&lt;/p&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Brain White Matter Atlas - MIPLAB - EPFL]]></title><description><![CDATA[Abramian et al. introduced a graph-based approach to model brain white matter (WM) that captures its inherent anisotropy through diffusion…]]></description><link>https://edouardkoehn.github.io/GRaph_MIPLAB/</link><guid isPermaLink="false">https://edouardkoehn.github.io/GRaph_MIPLAB/</guid><pubDate>Thu, 06 Jul 2023 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S1053811921003724?via%3Dihub&quot;&gt;Abramian et al.&lt;/a&gt; introduced a graph-based approach to model brain white matter (WM) that captures its inherent anisotropy through diffusion-weighted MRI data. Building on this, we developed a white matter atlas using voxel-level white matter brain graphs derived from dMRI data.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
@@ -99,7 +99,7 @@
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Alt text&quot;
+        alt=&quot;White Matter Brain Graphs&quot;
         title=&quot;&quot;
         src=&quot;/edouardkoehn.github.io/static/97be8a77ce506f276a8d91650bb390ee/f058b/Graph.png&quot;
         srcset=&quot;/edouardkoehn.github.io/static/97be8a77ce506f276a8d91650bb390ee/c26ae/Graph.png 158w,
@@ -115,7 +115,7 @@
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;Once those graphs extracted, we applied spectral clustering to these them to obtain a parcellation of white matter. The strength of this approach lies in its ability to generate parcellations at both individual and population levels.&lt;/p&gt;
+&lt;p&gt;After graph extraction, spectral clustering was applied to obtain a parcellation of the white matter. This method offers flexibility, allowing us to produce parcellations at both individual and population scales, thereby harnessing inter-subject variability.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
@@ -133,7 +133,7 @@
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Alt text&quot;
+        alt=&quot;Spectral Clustering of WM&quot;
         title=&quot;&quot;
         src=&quot;/edouardkoehn.github.io/static/7ae50410a9c4a204994d30dfe10e6650/f058b/EigenValue.png&quot;
         srcset=&quot;/edouardkoehn.github.io/static/7ae50410a9c4a204994d30dfe10e6650/c26ae/EigenValue.png 158w,
@@ -159,7 +159,88 @@
 &lt;ul&gt;
 &lt;li&gt;Hamid Behjat - EPFL&lt;/li&gt;
 &lt;li&gt;Andrea Santoro - EPFL&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Performance Analysis in Alpine Skiing]]></title><description><![CDATA[During my internship at the Swiss Ski Federation, we worked on using Global Navigation Satellite System (GNSS) tracking data for performance…]]></description><link>https://edouardkoehn.github.io/Ski/</link><guid isPermaLink="false">https://edouardkoehn.github.io/Ski/</guid><pubDate>Mon, 06 Apr 2020 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;During my internship at the Swiss Ski Federation, we worked on using Global Navigation Satellite System (GNSS) tracking data for performance analysis in winter sports.
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Fluorescent Astrocytes - Genomics & Health Informatics - Idiap]]></title><description><![CDATA[Astrocytes are star-shaped glial cells found in the brain and spinal cord, performing numerous essential functions in the central nervous…]]></description><link>https://edouardkoehn.github.io/Idiap/</link><guid isPermaLink="false">https://edouardkoehn.github.io/Idiap/</guid><pubDate>Fri, 20 Jan 2023 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Astrocytes are star-shaped glial cells found in the brain and spinal cord, performing numerous essential functions in the central nervous system, such as providing structural support for neurons, maintaining the extracellular environment, and managing the blood-brain barrier. Different astrocytes can display vastly distinct morphologies. Astrocytes also exhibit various functional states in response to signals, notably the A1 and A2 states: A1 astrocytes are pro-inflammatory, often damaging tissue in cases like brain injury, while A2 astrocytes support repair and regeneration.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/edouardkoehn.github.io/static/286a0b196e9f4f6f45e9e4fa1edff104/f3a19/Glia.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 74.68354430379746%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAABYlAAAWJQFJUiTwAAADLklEQVR42oWSfWhbZRTGz5BuVKeu21oVVtBJ3YoKqx8DhU39Q2FC2XClSJk42JhY0Mnwn4Juf8kYbCPK2HC4+lGddUJhW5Ji7Npo1+6jaWqr3epqs6Zp2ia5adKkSfNx7/357papGWFeeO+97/ue8zznec4R7nhyuRzZbPaffT6fJ51KWUvXDQxdJ5lMEovNgmnemY4Ubk0M9Y773OjZpHWSTqfxDAwwMDhkkc0l5rgx3EH/5TbC4dBi1n+ACwBNU7e+mudzkpN93A67Fgzjj8xa/xEtQl93M56LLSTn03cHvC0hNTNEavg0fm2BTCbNuDbHfCbLQjZHNBYjGg3j8/1p2fG/ki2ZqTh9V9q4OaMxHJhh/9kuHP2/45sKMRIMEY8G8ft9JJSXt2y4C+C/jTjXeYYJTSOT0/nRM0Lv6IRF6By8Tnv3d0wFxhj9a4xEIlEgu2iFRiZB/IqNrJJ7dWySjCIIajGmYwlSSnaPt1epmC9WS3FAfWFWNeYEsWSKUHyxgmAkykhgmrwaqdFrXXh6WpiNaQV5FqBhGOiGrpZBXl/s8lRwAm/vT9wcH2cyELB6lc3nrPvg9CTeyz/g+fUUgcComsmoBZdXGIZpFPfwlh+mYVrEZpHhnU8mlHdxcpmUujcKJQ/c8GK/5MD1h5tzXjdjYT9DI4M43F38fLEb+4UO/FMz9A97OO+y4+pxY3e1q6GOMBENcP4XdXa1A3t/J7+FriN1B+qRZ4Rl255Anl3LwTOnaHjnLaRsGUurypHSUo41t1C7dyvy1D2UvFmhzspxODqxnT6CvCos/WAF8tIS6m0qr/7ATuRlYfn2auT5NRxqPcmOfY3IY0Lpc6uQtSUcbzvJ1qbtKm459769WZHV4Gx38dm3nyK1wn0flyEvCA1Hd6sK99UhT6oKN69EHhcONh+moWkHUq6Yn74fWV3Csa9OUNu4B3nkUUoqK5ElgtPpwNaqAF9XcW+UIjVC/f4G5F1bI6u3VLCurpoHatZwvPUL9h56n7INFVS9soGyF9fz9dnv2dX0Iau2bKTqtU08WPkwncrjL3u+YcWeh1i3rZqKTzbxnvMj/gaO6tOAmCB+DQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Astrocytes&quot;
+        title=&quot;&quot;
+        src=&quot;/edouardkoehn.github.io/static/286a0b196e9f4f6f45e9e4fa1edff104/f058b/Glia.png&quot;
+        srcset=&quot;/edouardkoehn.github.io/static/286a0b196e9f4f6f45e9e4fa1edff104/c26ae/Glia.png 158w,
+/edouardkoehn.github.io/static/286a0b196e9f4f6f45e9e4fa1edff104/6bdcf/Glia.png 315w,
+/edouardkoehn.github.io/static/286a0b196e9f4f6f45e9e4fa1edff104/f058b/Glia.png 630w,
+/edouardkoehn.github.io/static/286a0b196e9f4f6f45e9e4fa1edff104/40601/Glia.png 945w,
+/edouardkoehn.github.io/static/286a0b196e9f4f6f45e9e4fa1edff104/f3a19/Glia.png 1086w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;In amyotrophic lateral sclerosis (ALS), astrocytes often enter a pro-inflammatory state similar to A1, releasing molecules that exacerbate motor neuron damage. Their impaired ability to repair and regenerate tissue may contribute to ALS progression. This project builds on Doaa M. Taha&apos;s research, exploring the link between the morphological and functional states of astrocytes by leveraging in the context of ALS. The project&apos;s aim was to utilize AI tools for biological hypothesis testing.&lt;/p&gt;
+&lt;h3&gt;&lt;ins&gt;Technical Details&lt;/ins&gt;&lt;/h3&gt;
+&lt;p&gt;We  used fluorescence microscopy images from iPSC-derived astrocytes taken from both healthy donors and familial ALS patients. These cell cultures were fixed and then immunostained with a combination of three markers: &lt;strong&gt;DAPI&lt;/strong&gt;: A nuclear-specific marker, &lt;strong&gt;GFAP&lt;/strong&gt;: Outlines intermediate filaments, &lt;strong&gt;Antibody Markers&lt;/strong&gt;: Against TDP-43, SPFQ, FUS, or NONO&lt;/p&gt;
+&lt;p&gt;Combining these markers allowed us to generate images in which the amount information about cellular structures and functions is fixed by our design choice. Using this data, we developed and trained convolutional image classifiers for specific task. Each model was trained using different input channels, allowing us to analyze the unique contributions of each channel to the task at hand.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/edouardkoehn.github.io/static/766ec96e784e79953ce0eb5047726a4f/b8471/channels.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 23.417721518987342%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAFCAYAAABFA8wzAAAACXBIWXMAABYlAAAWJQFJUiTwAAABiElEQVR42h3OzS/bARzH8a+HiqbY2qL1lPy6CumIqpRfWs+ERboEYYRsI+Eim4dmi0gkYy6Cg0gsO+wvMOphjVY6W7aTXtAr0dNCRcLuHN77ZddPPnnlLUexI4IHQQLhb0R+/eAiHid2GiMSChHc2uBn6Dd/4gnOz87Z2N5i92CHwGaAaDTK/cMDxycn7EfC7Gn798MwYm21IR4T+tcWxJiHf3qeFzXPMEoGtvQCHouBxcmPjM+8xWrXY6k3I7mCo8zBze0NamcDOa48iutsZBWkIIXdJUiHGf2QFzGp+Gc+MOjpoEiDzGnZ6CWJT/53zC68J80mFLblYlTTcVZVkLhO4O5XKfYqmBUTOoNohbVuRLGjy1cQEaamJ6mraSZFA1N1ySRLEasTS0zMv0EyhUfWrP+/Ck8lV4lLSlylWqEFU44BydDA1lcDlA37cPf6UModLK8vM/dyjOelLfS5nTQ9aeTL0mfWvq6gNjqpH/Hg6qlkZG6U2793dPV00d7XQPugl+qWp/wDA9nLEC6H3TgAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Channel Images&quot;
+        title=&quot;&quot;
+        src=&quot;/edouardkoehn.github.io/static/766ec96e784e79953ce0eb5047726a4f/f058b/channels.png&quot;
+        srcset=&quot;/edouardkoehn.github.io/static/766ec96e784e79953ce0eb5047726a4f/c26ae/channels.png 158w,
+/edouardkoehn.github.io/static/766ec96e784e79953ce0eb5047726a4f/6bdcf/channels.png 315w,
+/edouardkoehn.github.io/static/766ec96e784e79953ce0eb5047726a4f/f058b/channels.png 630w,
+/edouardkoehn.github.io/static/766ec96e784e79953ce0eb5047726a4f/40601/channels.png 945w,
+/edouardkoehn.github.io/static/766ec96e784e79953ce0eb5047726a4f/78612/channels.png 1260w,
+/edouardkoehn.github.io/static/766ec96e784e79953ce0eb5047726a4f/b8471/channels.png 2016w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;By comparing the performance of these models on a specific task, we extrapolated the importance of each input channel for that task.&lt;/p&gt;
+&lt;h3&gt;&lt;ins&gt;References&lt;/ins&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://onlinelibrary.wiley.com/doi/pdf/10.1111/nan.12770&quot;&gt;C. Verzat, J. Harley, R. Patani, and R. Luisier, “Image-based deep learning reveals the responses of human motor neurons to stress and VCP-related ALS”&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://arxiv.org/abs/1409.0575&quot;&gt;O. Russakovsky et al., “ImageNet Large Scale Visual Recognition Challenge”&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://academic.oup.com/brain/article/145/2/481/6510848&quot;&gt;Doaa M Taha et al. “Astrocytes display cell-autonomous and diverse early reactive states in familial amyotrophic lateral sclerosis”&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/s41593-020-00783-4&quot;&gt;Carole Escartin et al., “Reactive astrocyte nomenclature, definitions, and future directions”&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;ins&gt;Supervision&lt;/ins&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Raphaëlle Luisier - IDIAP&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Performance Analysis in Alpine Skiing  - SwissSki]]></title><description><![CDATA[During my internship at the Swiss Ski Federation, we worked on using Global Navigation Satellite System (GNSS) tracking data for performance…]]></description><link>https://edouardkoehn.github.io/Ski/</link><guid isPermaLink="false">https://edouardkoehn.github.io/Ski/</guid><pubDate>Mon, 06 Apr 2020 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;During my internship at the Swiss Ski Federation, we worked on using Global Navigation Satellite System (GNSS) tracking data for performance analysis in winter sports.
 In this context, we applied GNSS technology to various case studies and disciplines, including ski-cross, cross-country skiing, and alpine skiing. This &lt;a href=&quot;https://www.semanticscholar.org/paper/Identification-of-the-optimal-racing-line-for-top-a-Gallimore-Koehn/b513b7de53b82d7430b6324abf50bd5a1ba402a7&quot;&gt;paper&lt;/a&gt; highlights one of the analyses conducted during the winter of 2020.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
