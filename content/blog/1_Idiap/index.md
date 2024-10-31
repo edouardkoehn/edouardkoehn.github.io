@@ -5,7 +5,7 @@ keywords: ["Computer Vision - ", "CNN - ", "AI Explainability"]
 github_link: ""
 ---
 
-Astrocytes are star-shaped glial cells found in the brain and spinal cord, performing numerous essential functions in the central nervous system, such as providing structural support for neurons, maintaining the extracellular environment, and managing the blood-brain barrier. Different astrocytes can display vastly distinct morphologies. Astrocytes also exhibit various functional states in response to signals, notably the A1 and A2 states: A1 astrocytes are pro-inflammatory, often damaging tissue in cases like brain injury, while A2 astrocytes support repair and regeneration.
+Astrocytes are star-shaped glial cells found in the brain and spinal cord, performing numerous essential functions in the central nervous system, such as providing structural support for neurons, maintaining the extracellular environment, and regulating the blood-brain barrier. Different astrocytes can display vastly distinct morphologies. Astrocytes also exhibit various functional states in response to signals, notably the A1 and A2 states: A1 astrocytes are pro-inflammatory, often damaging tissue in cases like brain injury, while A2 astrocytes support repair and regeneration.
 
 ![Astrocytes](Glia.png)
 
@@ -19,7 +19,7 @@ Combining these markers allowed us to generate images in which the amount inform
 
 ![Channel Images](channels.png)
 
-By comparing the performance of these models on a specific task, we extrapolated the importance of each input channel for that task.
+By comparing the performance of these models on a specific tasks, we extrapolated the importance of each input channel for that task.
 
 ### <ins>References</ins>
 - [C. Verzat, J. Harley, R. Patani, and R. Luisier, “Image-based deep learning reveals the responses of human motor neurons to stress and VCP-related ALS”](https://onlinelibrary.wiley.com/doi/pdf/10.1111/nan.12770)
