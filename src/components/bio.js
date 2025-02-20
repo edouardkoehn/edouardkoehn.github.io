@@ -46,7 +46,7 @@ const Bio = () => {
       </div>
       <div className="bio-content">
         <p>
-          <a href="mailto:edouard.koehn@berkeley.edu">
+          <a href="mailto:edouard.koehn@gmail.com">
             <img src="https://img.icons8.com/material-outlined/30/000000/mail.png" alt="Email icon" />
           </a>
           <a href="https://github.com/edouardkoehn">
