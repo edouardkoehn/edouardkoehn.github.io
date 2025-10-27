@@ -37,9 +37,9 @@ const Bio = () => {
           className="bio-avatar"
           layout="fixed"
           formats={["auto", "webp", "avif"]}
-          src="../images/profile-pic.jpeg"
-          width={200}
-          height={200}
+          src="../images/profile-pic_new.jpg"
+          width={350}
+          height={250}
           quality={95}
           alt="Profile picture"
         />
@@ -59,9 +59,12 @@ const Bio = () => {
             <img src="https://img.icons8.com/material-outlined/30/000000/document.png" alt="Resume" />
           </a>
           <br></br>
-          <strong>Visiting Student</strong> @ <a href="https://bouchardlab.lbl.gov/">NSML, UC Berkeley</a>
+          <strong>Deep Learning specialist</strong> @ <a href="https://diiannilab.ucsf.edu/home">Di Ianni Lab, UCSF</a>
           <br></br>
-          <strong>Master Student in Neuroengineering </strong> @ <a href="https://www.epfl.ch/fr/">NeuroX EPFL</a></p>
+          <strong>Neuroengineering graduate from  </strong> @ <a href="https://www.epfl.ch/fr/">NeuroX EPFL</a></p>
+          <br></br>
+          Berkeley, California
+          <br></br>
         </div>
     </div>
     
