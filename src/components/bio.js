@@ -61,7 +61,7 @@ const Bio = () => {
           <br></br>
           <strong>Deep Learning specialist</strong> @ <a href="https://diiannilab.ucsf.edu/home">Di Ianni Lab, UCSF</a>
           <br></br>
-          <strong>Neuroengineering graduate from  </strong> @ <a href="https://www.epfl.ch/fr/">NeuroX EPFL</a></p>
+          <strong>Neuroengineering graduate from  </strong> @ <a href="https://www.epfl.ch/fr/">NeuroX, EPFL</a></p>
           <br></br>
           Berkeley, California
           <br></br>
